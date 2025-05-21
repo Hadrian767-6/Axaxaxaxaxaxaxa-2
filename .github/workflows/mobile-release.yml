@@ -7,7 +7,7 @@ permissions:
 
 env:
   PROJECT_NAME: PsychEngine
-  REPO_PATH: Hadrian767-5/Axaxaxaxaxaxaxa-2
+  REPO_PATH: Hadrian767-6/Axaxaxaxaxaxaxa-2
 
 jobs:
   get-commit-hash:
